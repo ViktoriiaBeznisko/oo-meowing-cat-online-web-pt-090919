@@ -2,5 +2,6 @@
 class Cat
   attr_accessor :name
   def voice (name)
-    puts 
+    puts "meow!"
+  end
 end
